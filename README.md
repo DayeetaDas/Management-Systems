@@ -1,2 +1,2 @@
-# Contact-Management-System
-This repository contains the code, documentation and declaration of ownership of a Contact Management System written in C++.
+# Management-System
+This repository contains codes of Contact management System, Library Management System written in C++.
